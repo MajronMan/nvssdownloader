@@ -1,0 +1,20 @@
+{
+  "name": "nvssdownloader",
+  "version": "1.0.0",
+  "description": "Downloads postage stamp for NRAO/VLA Sky Survey (NVSS) radio images of the sky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajronMan/nvssdownloader.git"
+  },
+  "author": "Miron Markowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajronMan/nvssdownloader/issues"
+  },
+  "homepage": "https://github.com/MajronMan/nvssdownloader#readme"
+}

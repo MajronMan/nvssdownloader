@@ -1,0 +1,9 @@
+{
+  "polarization": "I",
+  "imageType": { "header": "image%2Fjpeg", "extension": "jpg" },
+  "equinox": "J2000",
+  "projection": "SIN",
+  "imageSize": "0.25+0.25",
+  "pixelSpacing": "15.0+15.0",
+  "rotation": "0.0"
+}
